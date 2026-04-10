@@ -2,7 +2,6 @@
 Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
 
 
-
 <div>
   <p>My name is Amanda Cerimac, I'm 22 years old and I am a software developer!
  </div>
