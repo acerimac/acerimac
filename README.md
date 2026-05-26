@@ -7,6 +7,7 @@ Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
  
   Technologies that I know:
 
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" left="30" alt="Amanda-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
